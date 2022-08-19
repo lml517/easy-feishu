@@ -28,7 +28,7 @@
     "psr/simple-cache": "^3.0",
     "symfony/cache": "^3.3|^4.3|^5.2|^6.1",
     "symfony/http-foundation": "^2.7|^3.0|^4.0|^6.0",
-    "symfony/psr-http-message-bridge": "~0.3|^1.0"
+    "symfony/psr-http-message-bridge": "~0.3|^2.1"
   },
   "config": {
     "optimize-autoloader": true,
